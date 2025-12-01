@@ -11,7 +11,8 @@ return [
         'http://localhost:8080',
         'http://192.168.1.5:8080',
         'http://127.0.0.1:8080',
-        'https://vasir.onrender.com'
+        'https://vasir.onrender.com',
+        'https://vasirsv.com'
     ],
     'allowed_origins_patterns' => [
         '/^https:\/\/.*\.railway\.app$/',
